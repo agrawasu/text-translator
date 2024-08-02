@@ -26,7 +26,7 @@ DEEPL_API_KEY = config_file["DEEPL_API_KEY"]
 translator = deepl.Translator(DEEPL_API_KEY)
 
 
-# translate lines
+# translate lines -> ***ENTER TARGET LANGUAGE IN THE target_lang= ARGUMENT***
 translated_text = [translator.translate_text(line, target_lang="EN-US") for line in lines]
 
 
