@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43ff6fd7-9e3e-4941-a183-edb44be1b4e1" name="Changes" comment="delete config.json" />
+    <list default="true" id="43ff6fd7-9e3e-4941-a183-edb44be1b4e1" name="Changes" comment="create config.json">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722605545667</updated>
-      <workItem from="1722605547001" duration="7203000" />
+      <workItem from="1722605547001" duration="7952000" />
     </task>
     <task id="LOCAL-00001" summary="create auto-translation to english for .txt documents">
       <option name="closed" value="true" />
@@ -106,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722613181697</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="create config.json">
+      <option name="closed" value="true" />
+      <created>1722613211415</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722613211415</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,9 +127,10 @@
     <MESSAGE value="create auto-translation to english for .txt documents" />
     <MESSAGE value="create .gitignore" />
     <MESSAGE value="delete config.json" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete config.json" />
+    <MESSAGE value="create config.json" />
+    <option name="LAST_COMMIT_MESSAGE" value="create config.json" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/text_translator$main.coverage" NAME="main Coverage Results" MODIFIED="1722611612170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/text_translator$main.coverage" NAME="main Coverage Results" MODIFIED="1722613508645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
 </project>

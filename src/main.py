@@ -1,6 +1,5 @@
 import os
 import json
-import langdetect
 import deepl
 
 
